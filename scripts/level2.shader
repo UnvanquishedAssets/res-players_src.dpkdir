@@ -1,62 +1,48 @@
-models/players/level2/advmara_body
+models/players/level2/level2_adv_body
 {
-	diffuseMap   models/players/level2/AdvMara_Body_Diff
-	normalMap    models/players/level2/Mara_Body_Nrmls
+	diffuseMap   models/players/level2/level2_adv_body_d
+	normalMap    models/players/level2/level2_body_n
 	{
 		stage specularMap
-		map  models/players/level2/Mara_Body_Specc
+		map  models/players/level2/level2_body_s
 		specularExponentMin 0
 		specularExponentMax 128
 	}
-	glowMap      models/players/level2/Mara_Body_Glow
+	glowMap      models/players/level2/level2_body_g
 }
 
-models/players/level2/advmara_legs
+models/players/level2/level2_adv_legs
 {
-	diffuseMap   models/players/level2/AdvMara_Legs_Diff
-	normalMap    models/players/level2/Mara_Legs_Nrmls
+	diffuseMap   models/players/level2/level2_adv_legs_d
+	normalMap    models/players/level2/level2_legs_n
 	{
 		stage specularMap
-		map  models/players/level2/Mara_Legs_Specc
+		map  models/players/level2/level2_legs_s
 		specularExponentMin 0
 		specularExponentMax 128
 	}
 }
 
-models/players/level2/level2
+models/players/level2/level2_body
 {
-	qer_editorimage models/players/level2/level2
-	diffuseMap models/players/level2/level2
-	normalMap models/players/level2/level2_n
-}
-
-models/players/level2/level2upg
-{
-	qer_editorimage models/players/level2/level2_u
-	diffuseMap models/players/level2/level2_u
-	normalMap models/players/level2/level2_n
-}
-
-models/players/level2/mara_body
-{
-	diffuseMap   models/players/level2/Mara_Body_Diff
-	normalMap    models/players/level2/Mara_Body_Nrmls
+	diffuseMap   models/players/level2/level2_body_d
+	normalMap    models/players/level2/level2_body_n
 	{
 		stage specularMap
-		map  models/players/level2/Mara_Body_Specc
+		map  models/players/level2/level2_body_s
 		specularExponentMin 0
 		specularExponentMax 128
 	}
-	glowMap      models/players/level2/Mara_Body_Glow
+	glowMap      models/players/level2/level2_body_g
 }
 
-models/players/level2/mara_legs
+models/players/level2/level2_legs
 {
-	diffuseMap   models/players/level2/Mara_Legs_Diff
-	normalMap    models/players/level2/Mara_Legs_Nrmls
+	diffuseMap   models/players/level2/level2_legs_d
+	normalMap    models/players/level2/level2_legs_n
 	{
 		stage specularMap
-		map  models/players/level2/Mara_Legs_Specc
+		map  models/players/level2/level2_legs_s
 		specularExponentMin 0
 		specularExponentMax 128
 	}

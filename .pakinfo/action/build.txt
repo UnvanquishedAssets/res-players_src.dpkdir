@@ -1,2 +1,0 @@
-convert_normalized_crn models/players/level2/Mara_Body_Nrmls.png
-convert_normalized_crn models/players/level2/Mara_Legs_Nrmls.png
