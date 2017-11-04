@@ -1,6 +1,6 @@
 models/players/builder/shell
 {
-	qer_editorimage models/players/builder/granger_d.png
+	qer_editorimage models/players/builder/granger_d
 	diffuseMap  models/players/builder/granger_d
 	normalMap   models/players/builder/granger_n
 	specularMap models/players/builder/granger_spec
@@ -10,7 +10,7 @@ models/players/builder/shell
 //   same textures; shell has culling disabled
 models/players/builder/skin
 {
-	qer_editorimage models/players/builder/granger_d.png
+	qer_editorimage models/players/builder/granger_d
 	diffuseMap  models/players/builder/granger_d
 	normalMap   models/players/builder/granger_n
 	{
