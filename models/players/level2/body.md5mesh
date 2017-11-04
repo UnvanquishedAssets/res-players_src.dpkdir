@@ -65,7 +65,7 @@ joints {
 }
 
 mesh {
-  shader "mara_legs"
+  shader "models/players/level2/level2_legs"
   numverts 2400
   vert 0 ( 0.5093340278 0.1118059754 ) 0 2
   vert 1 ( 0.5149959922 0.0976449847 ) 2 1
@@ -9106,7 +9106,7 @@ mesh {
 }
 
 mesh {
-  shader "mara_body"
+  shader "models/players/level2/level2_body"
   numverts 3897
   vert 0 ( 0.0975909978 0.1683130264 ) 0 1
   vert 1 ( 0.0906829983 0.1877020001 ) 1 1
