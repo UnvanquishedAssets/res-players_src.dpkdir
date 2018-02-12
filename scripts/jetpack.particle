@@ -4,7 +4,7 @@ jetPackDescendPS
   {
     particle
     {
-      shader sync gfx/sprites/smoke
+      shader sync gfx/weapons/legacy_smoke
 
       parentVelocityFraction  1.0
       velocityType      tag
@@ -37,7 +37,7 @@ jetPackAscendPS
   {
     particle
     {
-      shader sync gfx/sprites/smoke
+      shader sync gfx/weapons/legacy_smoke
 
       parentVelocityFraction  1.0
       velocityType      tag
@@ -70,7 +70,7 @@ jetPackHoverPS
   {
     particle
     {
-      shader sync gfx/sprites/smoke
+      shader sync gfx/weapons/legacy_smoke
 
       parentVelocityFraction  1.0
       velocityType      tag
