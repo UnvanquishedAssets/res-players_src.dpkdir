@@ -10,3 +10,9 @@ models/weapons/hand
 	specularMap models/players/human_nobsuit_common/hand_s
 }
 
+models/weapons/hand2
+{
+	diffuseMap models/players/human_nobsuit_common/hand_d
+	normalMap models/players/human_nobsuit_common/hand_n
+	specularMap models/players/human_nobsuit_common/hand_s
+}
