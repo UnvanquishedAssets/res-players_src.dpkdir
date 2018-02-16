@@ -1,4 +1,4 @@
-alienEvolvePS
+particles/players/alien_base/evolve
 {
 	ejector
 	{

@@ -1,4 +1,4 @@
-humanBleedPS
+particles/players/human_base/bleed
 {
 	ejector
 	{
