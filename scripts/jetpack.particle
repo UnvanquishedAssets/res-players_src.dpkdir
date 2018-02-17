@@ -4,7 +4,7 @@ particles/players/human_base/jetpack_ascend
 	{
 		particle
 		{
-			shader sync gfx/weapons/rifle/legacy_smoke
+			shader sync gfx/players/human_base/jetpack_smoke
 
 			parentVelocityFraction  1.0
 			velocityType      tag
