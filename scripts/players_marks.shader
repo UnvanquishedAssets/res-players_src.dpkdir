@@ -1,9 +1,9 @@
 //   markShadow is the very cheap blurry blob underneath the player
-gfx/players/shadow
+gfx/players/common/shadow
 {
 	polygonOffset
 	{
-		map gfx/players/shadow
+		map gfx/players/common/shadow
 		blendFunc GL_SRC_ALPHA GL_ONE_MINUS_SRC_ALPHA
 		rgbGen vertex
 		alphaGen vertex
@@ -11,11 +11,11 @@ gfx/players/shadow
 }
 
 //   wake is the mark on water surfaces for paddling players
-gfx/players/wake
+gfx/players/common/wake
 {
 	polygonOffset
 	{
-		clampmap gfx/players/splash
+		clampmap gfx/players/common/splash
 		blendFunc GL_ONE GL_ONE
 		rgbGen vertex
 		tcmod rotate 250
@@ -23,7 +23,7 @@ gfx/players/wake
 		rgbGen wave sin .7 .3 .25 .5
 	}
 	{
-		clampmap gfx/players/splash
+		clampmap gfx/players/common/splash
 		blendFunc GL_ONE GL_ONE
 		rgbGen vertex
 		tcmod rotate -230
