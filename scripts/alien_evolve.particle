@@ -4,7 +4,7 @@ particles/players/alien_base/evolve
 	{
 		particle
 		{
-			shader sync gfx/sprites/green_acid
+			shader sync gfx/players/green_acid
 
 			displacement 0 0 0 ~0
 
