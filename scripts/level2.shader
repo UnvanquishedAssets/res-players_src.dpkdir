@@ -8,7 +8,7 @@ models/players/level2/level2_adv_body
 		specularExponentMin 0
 		specularExponentMax 128
 	}
-	glowMap      models/players/level2/level2_body_g
+	glowMap      models/players/level2/level2_body_a
 }
 
 models/players/level2/level2_adv_legs
@@ -34,7 +34,7 @@ models/players/level2/level2_body
 		specularExponentMin 0
 		specularExponentMax 128
 	}
-	glowMap      models/players/level2/level2_body_g
+	glowMap      models/players/level2/level2_body_a
 }
 
 models/players/level2/level2_legs

@@ -30,6 +30,6 @@ models/players/human_light/helmet
 	diffuseMap models/players/human_light/helmet_d
 	normalMap models/players/human_light/helmet_n
 	specularMap models/players/human_light/helmet_s
-	glowMap models/players/human_light/helmet_g
+	glowMap models/players/human_light/helmet_a
 }
 
