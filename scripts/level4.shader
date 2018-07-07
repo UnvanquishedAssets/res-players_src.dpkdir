@@ -1,6 +1,6 @@
 models/players/level4/level4b
 {
-	qer_editorimage models/players/level4/level4b
+	qer_editorImage models/players/level4/level4b
 	diffuseMap models/players/level4/level4b
 	normalMap models/players/level4/level4b_n
 	specularMap models/players/level4/level4b_s
@@ -8,9 +8,9 @@ models/players/level4/level4b
 
 models/players/level4/level4h
 {
-	qer_editorimage models/players/level4/level4h
+	qer_editorImage models/players/level4/level4h
 	{
-		blend diffusemap
+		blend diffuseMap
 		map models/players/level4/level4h
 		alphaFunc GE128
 	}

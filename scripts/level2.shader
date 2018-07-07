@@ -25,7 +25,7 @@ models/players/level2/level2_adv_legs
 
 models/players/level2/level2_body
 {
-	qer_editorimage models/players/level2/level2_body_d
+	qer_editorImage models/players/level2/level2_body_d
 	diffuseMap   models/players/level2/level2_body_d
 	normalMap    models/players/level2/level2_body_n
 	{
@@ -39,7 +39,7 @@ models/players/level2/level2_body
 
 models/players/level2/level2_legs
 {
-	qer_editorimage models/players/level2/level2_legs_d
+	qer_editorImage models/players/level2/level2_legs_d
 	diffuseMap   models/players/level2/level2_legs_d
 	normalMap    models/players/level2/level2_legs_n
 	{
