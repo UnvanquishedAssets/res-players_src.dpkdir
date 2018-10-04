@@ -19,7 +19,7 @@ gfx/players/common/wake
 		blendFunc GL_ONE GL_ONE
 		rgbGen vertex
 		tcmod rotate 250
-		tcMod stretch sin .9 0.1 0 0.7
+		tcMod stretch sin .9 .1 0 .7
 		rgbGen wave sin .7 .3 .25 .5
 	}
 	{
@@ -27,7 +27,7 @@ gfx/players/common/wake
 		blendFunc GL_ONE GL_ONE
 		rgbGen vertex
 		tcmod rotate -230
-		tcMod stretch sin .9 0.05 0 0.9
+		tcMod stretch sin .9 .05 0 .9
 		rgbGen wave sin .7 .3 .25 .4
 	}
 }

@@ -6,21 +6,21 @@ particles/players/human_base/jetpack_ascend
 		{
 			shader sync gfx/players/human_base/jetpack_smoke
 
-			parentVelocityFraction  1.0
+			parentVelocityFraction  1
 			velocityType      tag
 			velocityDir       linear
 			velocityMagnitude 60
-			velocity          0 0 0 ~15.0
+			velocity          0 0 0 ~15
 
 			accelerationType      static
 			accelerationDir       linear
 			accelerationMagnitude 10
 			acceleration          0 0 -1 0
 
-			radius 0 4.0 20.0
-			alpha  0 0.5 0.0
+			radius 0 4 20
+			alpha  0 .5 0
 			rotation 0 ~360 -
-			bounce 0.5
+			bounce .5
 
 			lifeTime 1500
 		}
