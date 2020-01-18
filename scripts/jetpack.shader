@@ -1,9 +1,11 @@
 models/players/human_base/jetpack
 {
 	qer_editorImage models/players/human_base/jetpack_d
-	diffuseMap  models/players/human_base/jetpack_d
-	normalMap   models/players/human_base/jetpack_n
-	specularMap models/players/human_base/jetpack_s
+	{
+		diffuseMap  models/players/human_base/jetpack_d
+		normalMap   models/players/human_base/jetpack_n
+		specularMap models/players/human_base/jetpack_s
+	}
 }
 
 gfx/players/human_base/jetpack_smoke
