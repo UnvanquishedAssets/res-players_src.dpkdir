@@ -1,6 +1,7 @@
 models/players/level2/level2_adv_body
 {
 	qer_editorImage  models/players/level2/level2_adv_body_d
+	imageMinDimension 128
 	{
 		diffuseMap   models/players/level2/level2_adv_body_d
 		normalMap    models/players/level2/level2_body_n
@@ -14,6 +15,7 @@ models/players/level2/level2_adv_body
 models/players/level2/level2_adv_legs
 {
 	qer_editorImage   models/players/level2/level2_adv_legs_d
+	imageMinDimension 128
 	{
 		diffuseMap   models/players/level2/level2_adv_legs_d
 		normalMap    models/players/level2/level2_legs_n
@@ -26,6 +28,7 @@ models/players/level2/level2_adv_legs
 models/players/level2/level2_body
 {
 	qer_editorImage models/players/level2/level2_body_d
+	imageMinDimension 128
 	{
 		diffuseMap   models/players/level2/level2_body_d
 		normalMap    models/players/level2/level2_body_n
@@ -39,6 +42,7 @@ models/players/level2/level2_body
 models/players/level2/level2_legs
 {
 	qer_editorImage models/players/level2/level2_legs_d
+	imageMinDimension 128
 	{
 		diffuseMap   models/players/level2/level2_legs_d
 		normalMap    models/players/level2/level2_legs_n
@@ -50,6 +54,7 @@ models/players/level2/level2_legs
 
 models/weapons/level2/zzap
 {
+	imageMinDimension 128
 	{
 		map models/weapons/level2/zzap
 		blendFunc add
@@ -58,6 +63,7 @@ models/weapons/level2/zzap
 
 models/weapons/level2/zzap2
 {
+	imageMinDimension 128
 	{
 		map models/weapons/level2/zzap2
 		blendFunc add

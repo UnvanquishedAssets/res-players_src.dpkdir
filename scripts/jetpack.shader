@@ -1,6 +1,7 @@
 models/players/human_base/jetpack
 {
 	qer_editorImage models/players/human_base/jetpack_d
+	imageMinDimension 128
 	{
 		diffuseMap  models/players/human_base/jetpack_d
 		normalMap   models/players/human_base/jetpack_n
@@ -12,6 +13,7 @@ gfx/players/human_base/jetpack_smoke
 {
 	cull none
 	entityMergable
+	imageMinDimension 128
 	{
 		map gfx/players/human_base/jetpack_smoke
 		blendFunc GL_SRC_ALPHA GL_ONE_MINUS_SRC_ALPHA

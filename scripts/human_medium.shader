@@ -2,6 +2,7 @@ models/players/human_medium/armor
 {
 	qer_editorImage models/players/human_medium/armour_d
 	cull none
+	imageMinDimension 128
 	{
 		diffuseMap  models/players/human_medium/armour_d
 		normalMap   models/players/human_medium/armour_n
@@ -15,6 +16,7 @@ models/players/human_medium/armor
 models/players/human_medium/body
 {
 	qer_editorImage models/players/human_nobsuit_common/base_d
+	imageMinDimension 128
 	{
 		diffuseMap  models/players/human_nobsuit_common/base_d
 		normalMap   models/players/human_nobsuit_common/base_n
@@ -26,6 +28,7 @@ models/players/human_medium/head
 {
 	qer_editorImage models/players/human_naked/head_d
 	surfaceparm nodraw
+	imageMinDimension 128
 	{
 		diffuseMap models/players/human_naked/head_d
 	}
@@ -34,6 +37,7 @@ models/players/human_medium/head
 models/players/human_medium/helmet
 {
 	qer_editorImage models/players/human_medium/helmet_d
+	imageMinDimension 128
 	{
 		diffuseMap  models/players/human_medium/helmet_d
 		normalMap   models/players/human_medium/helmet_n

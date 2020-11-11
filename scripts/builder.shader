@@ -2,6 +2,7 @@ models/players/builder/shell
 {
 	qer_editorImage models/players/builder/granger_d
 	cull none
+	imageMinDimension 128
 	{
 		diffuseMap  models/players/builder/granger_d
 		normalMap   models/players/builder/granger_n
@@ -9,10 +10,11 @@ models/players/builder/shell
 	}
 }
 
-//   same textures; shell has culling disabled
+// same textures; shell has culling disabled
 models/players/builder/skin
 {
 	qer_editorImage models/players/builder/granger_d
+	imageMinDimension 128
 	{
 		diffuseMap  models/players/builder/granger_d
 		normalMap   models/players/builder/granger_n

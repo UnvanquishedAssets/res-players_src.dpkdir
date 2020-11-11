@@ -1,6 +1,7 @@
 models/players/level3/level3
 {
 	qer_editorImage models/players/level3/level3_d
+	imageMinDimension 256
 	{
 		diffuseMap  models/players/level3/level3_d
 		normalMap   models/players/level3/level3_n

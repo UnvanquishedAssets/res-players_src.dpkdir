@@ -2,6 +2,7 @@
 gfx/players/common/shadow
 {
 	polygonOffset
+	imageMinDimension 128
 	{
 		map gfx/players/common/shadow
 		blendFunc GL_SRC_ALPHA GL_ONE_MINUS_SRC_ALPHA
@@ -14,6 +15,7 @@ gfx/players/common/shadow
 gfx/players/common/wake
 {
 	polygonOffset
+	imageMinDimension 128
 	{
 		clampmap gfx/players/common/splash
 		blendFunc GL_ONE GL_ONE

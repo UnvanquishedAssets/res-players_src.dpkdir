@@ -1,6 +1,7 @@
 models/players/level4/level4b
 {
 	qer_editorImage models/players/level4/level4b_d
+	imageMinDimension 256
 	{
 		diffuseMap  models/players/level4/level4b_d
 		normalMap   models/players/level4/level4b_n
@@ -11,6 +12,7 @@ models/players/level4/level4b
 models/players/level4/level4h
 {
 	qer_editorImage models/players/level4/level4h_d
+	imageMinDimension 256
 	{
 		diffuseMap  models/players/level4/level4h_d
 		normalMap   models/players/level4/level4h_n
