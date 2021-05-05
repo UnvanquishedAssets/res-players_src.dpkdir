@@ -18,5 +18,6 @@ models/players/level4/level4h
 		normalMap   models/players/level4/level4h_n
 		specularMap models/players/level4/level4h_s
 		glowMap     models/players/level4/level4h_a
+		alphaFunc GE128
 	}
 }
