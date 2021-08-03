@@ -12,6 +12,7 @@ models/players/level4/level4b
 models/players/level4/level4h
 {
 	qer_editorImage models/players/level4/level4h_d
+	qer_alphaFunc greater .5
 	imageMinDimension 256
 	{
 		diffuseMap  models/players/level4/level4h_d
