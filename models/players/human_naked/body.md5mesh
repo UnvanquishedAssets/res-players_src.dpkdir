@@ -93,7 +93,7 @@ joints {
 }
 
 mesh {
-  shader "default"
+  shader "<default>"
   numverts 26
   vert 0 ( 0.463322 0.934488 ) 0 1
   vert 1 ( 0.473606 0.922037 ) 1 1
@@ -176,7 +176,7 @@ mesh {
 }
 
 mesh {
-  shader "default"
+  shader "<default>"
   numverts 26
   vert 0 ( 0.443379 0.915895 ) 0 1
   vert 1 ( 0.452057 0.903182 ) 1 1
@@ -259,7 +259,7 @@ mesh {
 }
 
 mesh {
-  shader "default"
+  shader "<default>"
   numverts 212
   vert 0 ( 0.293814 0.490105 ) 0 1
   vert 1 ( 0.154244 0.868145 ) 1 1
@@ -1103,7 +1103,7 @@ mesh {
 }
 
 mesh {
-  shader "default"
+  shader "<default>"
   numverts 62
   vert 0 ( 0.267074 0.642935 ) 0 2
   vert 1 ( 0.286434 0.624655 ) 2 2
@@ -1394,7 +1394,7 @@ mesh {
 }
 
 mesh {
-  shader "default"
+  shader "<default>"
   numverts 33
   vert 0 ( 0.201926 0.209406 ) 0 1
   vert 1 ( 0.181036 0.218065 ) 1 1
@@ -1523,7 +1523,7 @@ mesh {
 }
 
 mesh {
-  shader "default"
+  shader "<default>"
   numverts 33
   vert 0 ( 0.201482 0.208462 ) 0 1
   vert 1 ( 0.180536 0.217145 ) 1 1
@@ -1652,7 +1652,7 @@ mesh {
 }
 
 mesh {
-  shader "default"
+  shader "<default>"
   numverts 2380
   vert 0 ( 0.503930 0.521240 ) 0 2
   vert 1 ( 0.506310 0.524250 ) 2 3
@@ -11635,7 +11635,7 @@ mesh {
 }
 
 mesh {
-  shader "default"
+  shader "<default>"
   numverts 972
   vert 0 ( 0.109680 0.627650 ) 0 1
   vert 1 ( 0.128900 0.601360 ) 1 1
@@ -15836,7 +15836,7 @@ mesh {
 }
 
 mesh {
-  shader "default"
+  shader "<default>"
   numverts 62
   vert 0 ( 0.180964 0.439885 ) 0 2
   vert 1 ( 0.198644 0.424765 ) 2 2
@@ -16127,7 +16127,7 @@ mesh {
 }
 
 mesh {
-  shader "default"
+  shader "<default>"
   numverts 212
   vert 0 ( 0.546054 0.506135 ) 0 2
   vert 1 ( 0.544214 0.507855 ) 2 2
@@ -16972,7 +16972,7 @@ mesh {
 }
 
 mesh {
-  shader "default"
+  shader "<default>"
   numverts 141
   vert 0 ( 0.430484 0.210685 ) 0 1
   vert 1 ( 0.447334 0.203845 ) 1 1
@@ -17632,7 +17632,7 @@ mesh {
 }
 
 mesh {
-  shader "default"
+  shader "<default>"
   numverts 1222
   vert 0 ( 0.075632 0.819580 ) 0 3
   vert 1 ( 0.065599 0.824608 ) 3 3
@@ -22665,7 +22665,7 @@ mesh {
 }
 
 mesh {
-  shader "default"
+  shader "<default>"
   numverts 233
   vert 0 ( 0.996544 0.003135 ) 0 1
   vert 1 ( 0.995724 0.003705 ) 1 1
@@ -23489,7 +23489,7 @@ mesh {
 }
 
 mesh {
-  shader "default"
+  shader "<default>"
   numverts 233
   vert 0 ( 0.984884 0.003135 ) 0 1
   vert 1 ( 0.988174 0.005435 ) 1 1
@@ -24313,7 +24313,7 @@ mesh {
 }
 
 mesh {
-  shader "default"
+  shader "<default>"
   numverts 84
   vert 0 ( 0.336694 0.836115 ) 0 1
   vert 1 ( 0.331904 0.831855 ) 1 1
@@ -24634,7 +24634,7 @@ mesh {
 }
 
 mesh {
-  shader "default"
+  shader "<default>"
   numverts 84
   vert 0 ( 0.639274 0.523775 ) 0 1
   vert 1 ( 0.633214 0.525895 ) 1 1
@@ -24955,7 +24955,7 @@ mesh {
 }
 
 mesh {
-  shader "default"
+  shader "<default>"
   numverts 77
   vert 0 ( 0.273514 0.743855 ) 0 1
   vert 1 ( 0.232704 0.799635 ) 1 1
@@ -25222,7 +25222,7 @@ mesh {
 }
 
 mesh {
-  shader "default"
+  shader "<default>"
   numverts 77
   vert 0 ( 0.066364 0.595325 ) 0 1
   vert 1 ( 0.051474 0.607885 ) 1 1
@@ -25489,7 +25489,7 @@ mesh {
 }
 
 mesh {
-  shader "default"
+  shader "<default>"
   numverts 41
   vert 0 ( 0.056864 0.942955 ) 0 1
   vert 1 ( 0.091614 0.939295 ) 1 1
@@ -25638,7 +25638,7 @@ mesh {
 }
 
 mesh {
-  shader "default"
+  shader "<default>"
   numverts 190
   vert 0 ( 0.519574 0.425365 ) 0 1
   vert 1 ( 0.540504 0.373345 ) 1 1
@@ -26357,7 +26357,7 @@ mesh {
 }
 
 mesh {
-  shader "default"
+  shader "<default>"
   numverts 190
   vert 0 ( 0.186214 0.023245 ) 0 1
   vert 1 ( 0.303854 0.400195 ) 1 1
@@ -27081,7 +27081,7 @@ mesh {
 }
 
 mesh {
-  shader "default"
+  shader "<default>"
   numverts 579
   vert 0 ( 0.832884 0.217845 ) 0 2
   vert 1 ( 0.824034 0.217995 ) 2 3
