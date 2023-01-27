@@ -3,9 +3,9 @@ models/players/level3/level3
 	qer_editorImage models/players/level3/level3_d
 	imageMinDimension 256
 	{
-		diffuseMap  models/players/level3/level3_d
-		normalMap   models/players/level3/level3_n
+		diffuseMap models/players/level3/level3_d
+		normalMap models/players/level3/level3_n
 		specularMap models/players/level3/level3_s
-		glowMap     models/players/level3/level3_a
+		glowMap models/players/level3/level3_a
 	}
 }
