@@ -1,9 +1,9 @@
 models/players/level2/level2_adv_body
 {
-	qer_editorImage models/players/level2/level2_adv_body_d
+	qer_editorImage models/players/level2/level2_adv_body
 	imageMinDimension 128
 	{
-		diffuseMap models/players/level2/level2_adv_body_d
+		diffuseMap models/players/level2/level2_adv_body
 		normalMap models/players/level2/level2_body_n
 		specularMap models/players/level2/level2_body_s
 		specularExponentMin 0
@@ -14,10 +14,10 @@ models/players/level2/level2_adv_body
 
 models/players/level2/level2_adv_legs
 {
-	qer_editorImage models/players/level2/level2_adv_legs_d
+	qer_editorImage models/players/level2/level2_adv_legs
 	imageMinDimension 128
 	{
-		diffuseMap models/players/level2/level2_adv_legs_d
+		diffuseMap models/players/level2/level2_adv_legs
 		normalMap models/players/level2/level2_legs_n
 		specularMap models/players/level2/level2_legs_s
 		specularExponentMin 0
@@ -27,10 +27,10 @@ models/players/level2/level2_adv_legs
 
 models/players/level2/level2_body
 {
-	qer_editorImage models/players/level2/level2_body_d
+	qer_editorImage models/players/level2/level2_body
 	imageMinDimension 128
 	{
-		diffuseMap models/players/level2/level2_body_d
+		diffuseMap models/players/level2/level2_body
 		normalMap models/players/level2/level2_body_n
 		specularMap models/players/level2/level2_body_s
 		specularExponentMin 0
@@ -41,10 +41,10 @@ models/players/level2/level2_body
 
 models/players/level2/level2_legs
 {
-	qer_editorImage models/players/level2/level2_legs_d
+	qer_editorImage models/players/level2/level2_legs
 	imageMinDimension 128
 	{
-		diffuseMap models/players/level2/level2_legs_d
+		diffuseMap models/players/level2/level2_legs
 		normalMap models/players/level2/level2_legs_n
 		specularMap models/players/level2/level2_legs_s
 		specularExponentMin 0
