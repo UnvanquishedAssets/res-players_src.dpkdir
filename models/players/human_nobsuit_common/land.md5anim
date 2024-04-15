@@ -11,8 +11,8 @@ hierarchy {
   "hips" 0 63 6 //
   "spine" 1 63 12 //
   "ribs" 2 63 18 //
-  "neck" 3 63 24 //
-  "neckcontol" 4 63 30 //
+  "tag_head" 3 63 24 //
+  "tag_headcontol" 4 63 30 //
   "head" 4 63 36 //
   "jaw" 6 63 42 //
   "lower_lip0" 7 63 48 //
@@ -39,7 +39,7 @@ hierarchy {
   "eyelidIK2.R" 6 63 174 //
   "eyelid1.R" 29 63 180 //
   "eyelid.R" 30 63 186 //
-  "head_tag" 4 63 192 //
+  "tag_head" 4 63 192 //
   "shoulder.R" 3 63 198 //
   "upper_arm.R" 33 63 204 //
   "forearm.R" 34 63 210 //
