@@ -1,8 +1,6 @@
 builder
+human_male
 human_bsuit
-human_light
-human_medium
-human_naked
 jetpack
 level0
 level1
