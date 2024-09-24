@@ -1,5 +1,6 @@
 gfx/players/alien_base/green_acid
 {
+	cull none
 	nopicmip
 	{
 		clampmap gfx/players/alien_base/green_acid
