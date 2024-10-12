@@ -1,22 +1,22 @@
-0,models/players/human_male/head // ???
-1,models/players/human_male/head // ???
-2,models/players/human_male/armor_medium // shoe
-3,models/players/human_male/armor_medium // knee pad
-4,models/players/human_male/head // ???
-5,models/players/human_male/head // ???
-6,models/players/human_male/body // body
-7,models/players/human_male/head // head
-8,models/players/human_male/armor_medium // knee pad
-9,models/players/human_male/armor_medium // shoe
-10,models/players/human_male/armor_medium // neck piece
-11,models/players/human_male/helmet_medium // helmet
-12,models/players/human_male/armor_medium // boot piece
-13,models/players/human_male/armor_medium // boot piece
-14,models/players/human_male/armor_medium // shoulder pad
-15,models/players/human_male/armor_medium // shoulder pad
-16,models/players/human_male/armor_medium // arm guard
-17,models/players/human_male/armor_medium // arm guard
-18,models/players/human_male/armor_medium // crotch armor
-19,models/players/human_male/armor_medium // hip armor
-20,models/players/human_male/armor_medium // hip armor
-21,models/players/human_male/armor_medium // chest armor
+0,models/players/human_male/armor_medium  // armor_chest
+1,models/players/human_male/armor_medium  // armor_wrist.R
+2,models/players/human_male/armor_medium  // armor_wrist.L
+3,models/players/human_male/armor_medium  // armor_shin.L
+4,models/players/human_male/armor_medium  // armor_knee.L
+5,models/players/human_male/armor_medium  // armor_shoe.L
+6,models/players/human_male/armor_medium  // armor_knee.R
+7,models/players/human_male/armor_medium  // armor_shoe.R
+8,models/players/human_male/armor_medium  // armor_shin.R
+9,models/players/human_male/armor_medium  // armor_thigh.L
+10,models/players/human_male/armor_medium  // armor_thigh.R
+11,models/players/human_male/armor_medium  // armor_groin
+12,models/players/human_male/armor_medium  // armor_shoulder.R
+13,models/players/human_male/armor_medium  // armor_shoulder.L
+14,models/players/human_male/armor_medium  // armor_neck
+15,models/players/human_male/body  // body
+16,models/players/human_male/head  // eye.L
+17,models/players/human_male/head  // eye.R
+18,models/players/human_male/head  // head
+19,models/players/human_male/helmet_medium  // helmet
+20,models/players/human_male/head  // teeth_lower
+20,models/players/human_male/head  // teeth_upper
